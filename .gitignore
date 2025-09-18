@@ -1,0 +1,63 @@
+# CAD Software Temporary Files
+*.log
+*.xml
+*.txt
+*.out
+*.trail
+*.trail.*
+*.pro
+*.pro.*
+*.inf
+*.inf.*
+*.bak
+*.bak.*
+*.tmp
+*.tmp.*
+
+# Creo/Pro/Engineer specific
+*.acc
+*.acc.*
+*.bom
+*.bom.*
+*.drw
+*.drw.*
+*.frm
+*.frm.*
+*.lay
+*.lay.*
+*.mfg
+*.mfg.*
+*.sec
+*.sec.*
+*.sld
+*.sld.*
+*.tbl
+*.tbl.*
+*.tol
+*.tol.*
+*.wrl
+*.wrl.*
+
+# Assembly and part temporary files
+*.asm.*
+*.prt.*
+
+# Keep only the main files
+!*.asm.1
+!*.prt.1
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Backup files
+*~
+*.backup
+*.old
